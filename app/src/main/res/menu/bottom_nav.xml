@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/apinumberFragment"
+        android:icon="@drawable/api"
+        android:contentDescription="api"
+        android:title="NumberApi" />
+    <item
+        android:id="@+id/dateFragment"
+        android:icon="@drawable/date"
+        android:contentDescription="date"
+        android:title="Date" />
+    <item
+        android:id="@+id/timeFragment"
+        android:icon="@drawable/time"
+        android:contentDescription="time"
+        android:title="Time" />
+    <item
+        android:id="@+id/creativeFragment"
+        android:icon="@drawable/creative"
+        android:contentDescription="creative"
+        android:title="Creative" />
+</menu>

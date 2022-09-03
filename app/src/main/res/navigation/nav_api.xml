@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_api"
+    app:startDestination="@id/apinumberFragment">
+
+    <fragment
+        android:id="@+id/apinumberFragment"
+        android:name="com.vishal.venzpiretask.ApinumberFragment"
+        android:label="fragment_apinumber"
+        tools:layout="@layout/fragment_apinumber" />
+    <fragment
+        android:id="@+id/dateFragment"
+        android:name="com.vishal.venzpiretask.DateFragment"
+        android:label="fragment_date"
+        tools:layout="@layout/fragment_date" />
+    <fragment
+        android:id="@+id/timeFragment"
+        android:name="com.vishal.venzpiretask.TimeFragment"
+        android:label="fragment_time"
+        tools:layout="@layout/fragment_time" />
+    <fragment
+        android:id="@+id/creativeFragment"
+        android:name="com.vishal.venzpiretask.CreativeFragment"
+        android:label="fragment_creative"
+        tools:layout="@layout/fragment_creative" />
+</navigation>
