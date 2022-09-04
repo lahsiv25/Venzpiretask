@@ -26,6 +26,7 @@ Playstore link comming soon
 
 ## APK
 
-[app-debugfinal.zip](https://github.com/lahsiv25/Venzpiretask/files/9484702/app-debugfinal.zip)
+[app-debug22.zip](https://github.com/lahsiv25/Venzpiretask/files/9484785/app-debug22.zip)
+
 
 
