@@ -24,3 +24,8 @@ Venzpiretask is a numbers app which returns some meaningful statements about the
 
 Playstore link comming soon
 
+## APK
+
+[app-debug.zip](https://github.com/lahsiv25/Venzpiretask/files/9484516/app-debug.zip)
+
+
